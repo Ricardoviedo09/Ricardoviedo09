@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Oviedo</h1>
 <h3 align="center">A passionate developer from Dominican Republic</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ricardoviedo09](https://github.com/Ricardoviedo09)
-
 - 📫 How to reach me **ricardo.oviedo70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
